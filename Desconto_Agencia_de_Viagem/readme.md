@@ -1,0 +1,1 @@
+Calcula descontos levando em consideração o valor bruto do pacote, a categoria dos assentos e quantidade de viajantes.
